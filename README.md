@@ -14,6 +14,6 @@ The dataset, curated by Charytanowicz, Magorzata, et al. (2012), is a well-known
 4) Data Visualization: Sophisticated visualization techniques are applied to interpret the results of clustering and PCA, facilitating a deeper understanding of the dataset's structure.
 
 # How to Use
-Ensure Python 3.x and necessary libraries (like scikit-learn, pandas, numpy, matplotlib) are installed.
-Download the 'Seeds' dataset from the UCI repository.
-Follow the Jupyter Notebook to replicate the analysis steps, from data preprocessing to advanced clustering and PCA.
+1) Ensure Python 3.x and necessary libraries (like scikit-learn, pandas, numpy, matplotlib) are installed.
+2) Download the 'Seeds' dataset from the UCI repository.
+3) Follow the Jupyter Notebook to replicate the analysis steps, from data preprocessing to advanced clustering and PCA.
